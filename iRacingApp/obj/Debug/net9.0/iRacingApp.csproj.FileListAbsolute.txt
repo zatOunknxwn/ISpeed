@@ -1,0 +1,6 @@
+C:\Users\-zatO\Documents\GitHub\ISpeed\iRacingApp\obj\Debug\net9.0\iRacingApp.csproj.AssemblyReference.cache
+C:\Users\-zatO\Documents\GitHub\ISpeed\iRacingApp\obj\Debug\net9.0\iRacingApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\-zatO\Documents\GitHub\ISpeed\iRacingApp\obj\Debug\net9.0\iRacingApp.AssemblyInfoInputs.cache
+C:\Users\-zatO\Documents\GitHub\ISpeed\iRacingApp\obj\Debug\net9.0\iRacingApp.AssemblyInfo.cs
+C:\Users\-zatO\Documents\GitHub\ISpeed\iRacingApp\obj\Debug\net9.0\iRacingApp.csproj.CoreCompileInputs.cache
+C:\Users\-zatO\Documents\GitHub\ISpeed\iRacingApp\obj\Debug\net9.0\iRacingApp.sourcelink.json
